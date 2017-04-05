@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-learning",
+  "version": "0.0.1",
+  "description": "mongodb-learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mongo",
+    "demo"
+  ],
+  "author": "694008175@qq.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtgzczz/mongodb-learning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wtgzczz/mongodb-learning/issues"
+  }
+}
